@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{496E856B-9272-4CE1-83A0-092E955BC90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADelegate", "CADelegate\CADelegate.csproj", "{61976451-94FB-4C4B-A51D-225E9EAB4FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496E856B-9272-4CE1-83A0-092E955BC90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496E856B-9272-4CE1-83A0-092E955BC90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496E856B-9272-4CE1-83A0-092E955BC90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496E856B-9272-4CE1-83A0-092E955BC90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61976451-94FB-4C4B-A51D-225E9EAB4FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61976451-94FB-4C4B-A51D-225E9EAB4FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61976451-94FB-4C4B-A51D-225E9EAB4FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61976451-94FB-4C4B-A51D-225E9EAB4FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766CDA3B-638B-4C69-8572-6AC6AF376BDD}
+	EndGlobalSection
+EndGlobal
